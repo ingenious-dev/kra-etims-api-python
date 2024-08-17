@@ -84,4 +84,4 @@ Example of returned data:
 Changelog
 ---------
 
-See `CHANGELOG.md <https://github.com/ingenious-dev/kra-etims-api-python/blob/trunk/CHANGELOG.md>`_.
+See `CHANGELOG.md <https://github.com/ingenious-dev/kra-etims-api-python/blob/main/CHANGELOG.md>`_.
